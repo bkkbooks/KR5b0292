@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0292/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0292/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃帝太一八門入式祕訣
+  date: '2015-08-29 00:15:48.068940'
+  source:
+    repository: kanripo
+    path: KR5b0292
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0292_000-ZTDZ.yaml, hash: 'sha256:9dd6ede25e0d72f2d660235e229cdb3fde25eae7074f1021b188351f974cf16c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0292_000-ZTDZ.markers.yaml, hash: 'sha256:56889f9812cde288682816125d9f730a24a4051228c163fdfd8814fa82664a6a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0292_SJB_000-100778a
+    span:
+    - body
+    - 0
+    - 2573
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:2f570b0aab5da1bbec566c85d26eef59c70c8d79ba2439e721952c8981c57e18
