@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5b0292/v1
 canonical_location: https://kanripo.org/bkk/KR5b0292/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 黃帝太一八門入式祕訣
   identifiers:
@@ -32,9 +32,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5b0292_000.yaml, hash: 'sha256:a9b22fe060219c6af149e2b564b415c89c569ed18f390e10328df5415896fe17'}
+  - {seq: 0, filename: KR5b0292_000.yaml, hash: 'sha256:2720d7248f0d3c28c4d9ee3a89f97682ba27d279612971f66194e97d736bd75b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0292_000.markers.yaml, hash: 'sha256:a44e9da75c3992dfa6d992de3784a10350c922a169f4322d316895119d424b75'}
+  - {seq: 0, role: markers, filename: assets/KR5b0292_000.markers.yaml, hash: 'sha256:f12f430c437f45fedc3c6eac87abcec9765d7591251e02387c441db0a101c336'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:9555ee6e6a1a7a034345da8b135417770faf56d801efd2847bc7a3272948e52a
+hash: sha256:1f285718940d2191e4b47e4ba1b9f5ea24eeaea277dc0593e71383524ee1ced9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
